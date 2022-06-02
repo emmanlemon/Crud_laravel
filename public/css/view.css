@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+body{
+    background-image: url(../images/coffee-background2.jpg);
+    background-size: cover;
+     font-family: var(--family);
+ }
+.view{
+    display: grid;
+    place-items: center;
+}
